@@ -7,6 +7,7 @@ export interface MacActions {
     sleepMac: (e: React.MouseEvent) => void;
 }
 
-export{
-
+export {
+    LaunchpadData,
+    WallpaperData,
 } from './configs';
